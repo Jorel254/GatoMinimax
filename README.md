@@ -1,2 +1,2 @@
 # GatoMinimax
-Juego de Gato aplicando el algoritmo minmax
+Juego de Gato aplicando el algoritmo minimax
